@@ -1,4 +1,4 @@
-# MySQL-project
+# MySQL- and Python project
 
 There Are Three Projects in Sql Leve-l,Leve-2,Level-3
 
